@@ -1,0 +1,44 @@
+.headerCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    padding-inline: 10vw;;
+    padding-top: 10vh;
+}
+h1 a{
+    text-decoration: none;
+    color: #292929;
+    font-weight: 100;
+}
+h1 a:hover{
+    color: #b9b9b9;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+}
+ul li {
+    justify-content: space-between;
+    padding: 1rem;
+}
+ul li a{
+    padding: .5rem;
+    text-decoration: none;
+    color: #292929;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #b9b9b9;
+    border: 1px solid #fff;
+}
+
+@media screen and (max-width: 500px) {
+    ul li a{
+        display: none;
+    }
+}

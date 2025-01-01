@@ -1,0 +1,90 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 50vh;
+}
+.flexbox{
+   display: flex;
+   justify-content: center;
+   flex-direction: row;
+   align-items: center;
+}
+.icons{
+    height: 25vh;
+    display: flex;
+    flex-direction:row;
+    align-content:center;
+    justify-content: center;
+
+
+}
+footer ul li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 9px;
+    border: 1px solid transparent;
+    margin: 1rem;
+}
+footer ul li:hover{
+    transition: .4s ease-in-out;
+    border: 1px solid #292929;
+}
+footer ul li a{
+    text-align: center;
+}
+.mobFoot{
+    display:none;
+}
+.toTop{
+    border: 1px solid #292929;
+    width: fit-content;
+    padding: 1rem;
+    border-radius: 9px;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
+    text-align: center;
+    margin: 0 auto;
+}
+.toTop:hover{
+    background-color: #292929;
+    color: #fff;
+    cursor: pointer;
+}
+@media screen and (max-width:400px) {
+    footer{
+    display: none;
+    }
+    .mobFoot{
+        display:flex;
+        justify-content: center;
+        flex-direction: column;
+        align-content: center;
+        gap: 25px;
+        padding-left: 25%;
+
+    }   
+     .mobFoot a{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #292929;
+        text-decoration: none;
+        padding: 1rem;
+        border:1px solid black;
+        font-weight: 500;
+        border-radius: 9px;
+        width: 50vw;
+    }
+    .mobFoot a:hover{
+        background-color: #292929;
+        color:#fff;
+    }
+
+}
