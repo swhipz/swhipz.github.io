@@ -1,6 +1,6 @@
 import './footer.css'
 import StackIcon from 'tech-stack-icons'
-import  fjicon  from '../../media/icon-removebg-preview.png'
+import  fjicon  from '../../media/fjicon.png'
 const Footer = () => {
     return(
         <>
