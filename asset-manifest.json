@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ph-pages/static/css/main.381b2c5f.css",
-    "main.js": "/ph-pages/static/js/main.8e78a31f.js",
-    "static/js/453.abddd8cb.chunk.js": "/ph-pages/static/js/453.abddd8cb.chunk.js",
-    "static/media/landscape.jpg": "/ph-pages/static/media/landscape.64dd3ea8d55fa822b186.jpg",
-    "static/media/dog1.jpg": "/ph-pages/static/media/dog1.b33daeab522860bc4ef0.jpg",
-    "static/media/amfotball2.jpg": "/ph-pages/static/media/amfotball2.41e87102f77f93315227.jpg",
-    "static/media/amfotball1.jpg": "/ph-pages/static/media/amfotball1.fbe528cb7f66e2e10bd5.jpg",
-    "static/media/ma.jpg": "/ph-pages/static/media/ma.06e645a322e314a4bb2e.jpg",
-    "static/media/fjicon.png": "/ph-pages/static/media/fjicon.73eeb1bd372ea42e0a9d.png",
-    "index.html": "/ph-pages/index.html",
-    "main.381b2c5f.css.map": "/ph-pages/static/css/main.381b2c5f.css.map",
-    "main.8e78a31f.js.map": "/ph-pages/static/js/main.8e78a31f.js.map",
-    "453.abddd8cb.chunk.js.map": "/ph-pages/static/js/453.abddd8cb.chunk.js.map"
+    "main.css": "/static/css/main.0228bc5d.css",
+    "main.js": "/static/js/main.dc9fce7a.js",
+    "static/js/453.abddd8cb.chunk.js": "/static/js/453.abddd8cb.chunk.js",
+    "static/media/landscape.jpg": "/static/media/landscape.64dd3ea8d55fa822b186.jpg",
+    "static/media/dog1.jpg": "/static/media/dog1.b33daeab522860bc4ef0.jpg",
+    "static/media/amfotball2.jpg": "/static/media/amfotball2.41e87102f77f93315227.jpg",
+    "static/media/amfotball1.jpg": "/static/media/amfotball1.fbe528cb7f66e2e10bd5.jpg",
+    "static/media/ma.jpg": "/static/media/ma.06e645a322e314a4bb2e.jpg",
+    "static/media/fjicon.png": "/static/media/fjicon.73eeb1bd372ea42e0a9d.png",
+    "index.html": "/index.html",
+    "main.0228bc5d.css.map": "/static/css/main.0228bc5d.css.map",
+    "main.dc9fce7a.js.map": "/static/js/main.dc9fce7a.js.map",
+    "453.abddd8cb.chunk.js.map": "/static/js/453.abddd8cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.381b2c5f.css",
-    "static/js/main.8e78a31f.js"
+    "static/css/main.0228bc5d.css",
+    "static/js/main.dc9fce7a.js"
   ]
 }
